@@ -1,1 +1,1 @@
-All the data related to projects is updated in this directory.
+All the data and data references related to projects is updated in this directory.
