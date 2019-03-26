@@ -1,0 +1,14 @@
+# References:
+[1] Moez Baccouche, et al. Sequential deep learning for human action recognition. International Workshop on Human Behavior Understanding. Springer Berlin Heidelberg, 2011.
+[2] Samir K. Bandyopadhyay, Biswajita Datta, and Sudipta Roy Identifications of concealed weapon in a Human Body Department of Computer Science and Engineer, University of Calcutta, 2012.
+[3] K. Simonyan, A. Zisserman Very Deep Convolutional Networks for Large-Scale Image Recognition Visual Geometry Group, Department of Engineering Science, University of Oxford, 2015.
+[4] Claire-Hlne Demarty, et. al The MediaEval 2012 affect task: violent scenes detection Working Notes Proceedings of the MediaEval 2012 Workshop. 2012.
+[5] Greg Flitton, Toby P Breckon, and Najla Megherbi. A comparison of 3d interest point descriptors with application to airport baggage object detection in complex ct imagery. Pattern Recognition, 46(9):2420{2436, 2013.
+[6] Richard Gesick, Caner Saritac, and Chih-Cheng Hung. Automatic image analysis process for the detection of concealed weapons. In Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research: Cyber Security and Information Intelligence Challenges and Strategies, page 20. ACM, 2009.
+[7] Yu-Ming Liang, Sheng-Wen Shih, and Arthur Chun-Chieh Shih. 2013. Human action segmentation and classification based on the Isomap algorithm. Multimedia Tools and Applications 62, 3 (01 Feb 2013), 561–580. https://doi.org/10.1007/s11042-011-0858-2
+[8] Sergio A. Velastin, Boghos A. Boghossian, and Maria Alicia Vicencio-Silva. 2006. A motion-based image processing system for detecting potentially dangerous situations in underground railway stations. Transportation Research Part C: Emerging Technologies 14, 2 (2006), 96 – 113. https://doi.org/10.1016/j.trc.2006.05.006
+[9] Nadhir Ben Halima and Osama Hosam. Bag of words based surveillance system using support vector machines. International Journal of Security and Its Applications, 10(4):331{346, 2016.
+[10] Osama Hosam and Abdulaziz Alraddadi. K-means clustering and support vector machines approach for detecting re weapons in cluttered scenes. Life Science Journal, 11(9), 2014.
+[11] Rohit Kumar Tiwari and Gyanendra K Verma. A computer vision based framework for visual gun detection using harris interest point detector. Procedia Computer Science, 54:703{712, 2015.
+[12] Rohit Kumar Tiwari and Gyanendra K Verma. A computer vision based framework for visual gun detection using surf. In Electrical, Electronics, Signals, Communication and Optimization (EESCO), 2015 International Conference on, pages 1{5. IEEE, 2015.
+[13] Zelong Xiao, Xuan Lu, Jiangjiang Yan, Li Wu, and Luyao Ren. Automatic detection of concealed pistols using passive millimeter wave imaging. In 2015 IEEE International Conference on Imaging Systems and Techniques (IST), pages 1{4. IEEE, 2015.
