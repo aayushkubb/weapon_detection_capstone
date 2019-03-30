@@ -1,11 +1,10 @@
 # Weapon Detection using Deep Learning Architecture
 
-
-<b>Souvik Jana, souvikjana1993@gmail.com</b></br>
 <b>Aayush Kubba, aayushkubba.727@gmail.com</b> </br>
 <b>Kamalendu Das, ee.kd13@gmail.com</b></br>
 <b>Mayank Verma, er.mayank.verma1991@gmail.com</b></br>
 <b>Shweta Mayekar, shweta.mayekar695@gmail.com</b></br>
+<b>Souvik Jana, souvikjana1993@gmail.com</b></br>
 
 
 
